@@ -1,0 +1,31 @@
+body{
+    margin:auto auto;
+    margin-top:15px;
+    text-align:center;
+    color:lightblue;
+    background-image:url("../images/binary_background2.jpg");
+   font-size:30px;
+}
+
+section{
+
+    padding:10px;
+    margin:25px 50px;
+}
+
+label{
+    padding:10px;
+    text-align: center;
+
+}
+
+input{
+    padding:10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.button{
+    padding-top:10px;
+    padding-bottom:10px;
+}
